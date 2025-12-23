@@ -1,2 +1,4 @@
-***********************************THIS REPO CONSISTS OF CORE CONCEPTS IN JS*****************************************
-1. EXECUTION CONTEXT 
+***THIS REPO CONSISTS OF CORE CONCEPTS IN JS***
+
+         1. EXECUTION CONTEXT 
+         2. Hoisting
