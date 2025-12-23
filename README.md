@@ -1,4 +1,4 @@
 ***THIS REPO CONSISTS OF CORE CONCEPTS IN JS***
 
          1. EXECUTION CONTEXT 
-         2. Hoisting
+         2. HOISTING
