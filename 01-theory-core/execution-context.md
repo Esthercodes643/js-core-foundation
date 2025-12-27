@@ -135,12 +135,3 @@ Global context is popped when the program ends
 
       =>Understanding execution context helps in understanding:
 
------------->Hoisting
-
------------->Scope
-
------------->Closures
-
------------->this
-
------------->Event loop 
